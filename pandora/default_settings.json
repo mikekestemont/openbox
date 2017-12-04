@@ -1,0 +1,12 @@
+{
+    "model_dir" : "models/char",
+    "postcorrect" : false,
+    "lemma" : true,
+    "pos" : true,
+    "morph" : true,
+    "dev_size" : 0.1,
+    "test_size" : 0.1,
+    "max_token_len" : false,
+    "max_lemma_len" : false,
+    "char_embed_dim" : null
+}
